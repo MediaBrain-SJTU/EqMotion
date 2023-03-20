@@ -108,7 +108,7 @@ We provide our trained models in "eth_ucy/saved_models" and the results (ADE/FDE
 | EqMotion| 0.40/0.61 | 0.12/0.18 |0.23/0.43| 0.18/0.32 |0.13/0.23 |0.21/0.35|
 
 
-### Acknowledgements
+## Acknowledgements
 We thank for the part of training code provided by [EGNN](https://github.com/vgsatorras/egnn). We also thank for part of the data preprocessing code provided by [SPGSN](https://github.com/MediaBrain-SJTU/SPGSN) and [AgentFormer](https://github.com/Khrylx/AgentFormer).
 
 ## Citation
