@@ -15,7 +15,7 @@ Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yuguang Wang, Xinchao Wang, Y
 * Python 3.7
 * Pytorch 1.8.1
 
-## Particle Dynamics
+## Particle Dynamic
 ### Data preparation
 We already provide the dataset file in "n_body_system/dataset". If you want to generate data by yourself, for the prediction task please run:
 ```
@@ -38,7 +38,7 @@ For the reasoning task:
 CUDA_VISIBLE_DEVICES={GPU_ID} python main_nbody_reasoning.py 
 ```
 
-## Molecule Dynamics
+## Molecule Dynamic
 ### Data preparation
 The MD17 dataset can be downloaded from [MD17](http://www.sgdml.org/#datasets). Put the downloaded file in "md17/dataset" and run
 ```
