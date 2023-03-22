@@ -3,6 +3,7 @@
 Official implementation of CVPR 2023 paper:  
 **EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning**  
 Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yuguang Wang, Xinchao Wang, Yanfeng Wang
+
 [[paper]](https://arxiv.org/abs/2303.10876)
 
 <div align="center">
