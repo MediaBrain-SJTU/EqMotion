@@ -1,7 +1,7 @@
 # EqMotion
 
 Official implementation of our paper:  
-**EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning**  
+**EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning**  
 Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yuguang Wang, Xinchao Wang, Yanfeng Wang  
 **CVPR 2023** [[paper]](https://arxiv.org/abs/2303.10876)
 
