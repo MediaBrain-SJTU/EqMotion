@@ -117,7 +117,7 @@ We provide our trained models in "eth_ucy/saved_models" and the results (ADE/FDE
 
 
 ## Acknowledgements
-We thank for the part of training code provided by [EGNN](https://github.com/vgsatorras/egnn). We also thank for part of the data preprocessing code provided by [SPGSN](https://github.com/MediaBrain-SJTU/SPGSN) and [AgentFormer](https://github.com/Khrylx/AgentFormer).
+We thank for the part of training code provided by [EGNN](https://github.com/vgsatorras/egnn). We also thank for part of the data preprocessing code provided by [NRI](https://github.com/ethanfetaya/NRI), [SPGSN](https://github.com/MediaBrain-SJTU/SPGSN) and [AgentFormer](https://github.com/Khrylx/AgentFormer).
 
 ## Citation
 If you find our work useful in your research, please cite our paper:
