@@ -122,11 +122,12 @@ We thank for the part of training code provided by [EGNN](https://github.com/vgs
 ## Citation
 If you find our work useful in your research, please cite our paper:
 ```bibtex
-@inproceedings{xu2023EqMotion,
-    title={EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning},
-    author={Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yuguang Wang, Xinchao Wang, Yanfeng Wang},
-    booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2023}
+@inproceedings{xu2023eqmotion,
+  title={EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning},
+  author={Xu, Chenxin and Tan, Robby T and Tan, Yuhong and Chen, Siheng and Wang, Yu Guang and Wang, Xinchao and Wang, Yanfeng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1410--1420},
+  year={2023}
 }
 ```
 
