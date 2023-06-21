@@ -19,9 +19,9 @@ Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yuguang Wang, Xinchao Wang, Y
 </div>
 
 ## Recommand Dependencies
-* Cuda 11.0
+* Cuda 11.1
 * Python 3.7
-* Pytorch 1.8.1
+* Pytorch 1.8.0
 
 ## Particle Dynamic
 ### Data preparation
